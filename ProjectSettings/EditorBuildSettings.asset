@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bomberman.unity
+    guid: 5d63f975c3804924ca8b5cbd87660359
+  - enabled: 1
+    path: Assets/Scenes2.unity
+    guid: f2fb3413048844f4ca567de5189e0fa0
+  - enabled: 1
+    path: Assets/Scenes3.unity
+    guid: 2105f2ee8fa97da47a188cce0f25f989
+  - enabled: 1
+    path: Assets/Scenes4.unity
+    guid: 62e021461f7daa1478cb805e4ee35dde
+  - enabled: 1
+    path: Assets/Scenes5.unity
+    guid: d466194562cc0214fbaf14f6b2764ad6
+  - enabled: 1
+    path: Assets/Scenes6.unity
+    guid: cdec1b47c56fb274c9524c06449ebba5
+  - enabled: 1
+    path: Assets/load0.unity
+    guid: 305669ec32e7ed4459ccd9936851572d
+  - enabled: 1
+    path: Assets/load1.unity
+    guid: 1b3359c0af294b64886e954513371b07
+  - enabled: 1
+    path: Assets/load2.unity
+    guid: c23ada4ae9bc2d14aad9dc41bda7d2d2
+  - enabled: 1
+    path: Assets/load3.unity
+    guid: 6edf2b8db64d86443aa965b84de52966
+  - enabled: 1
+    path: Assets/load4.unity
+    guid: ddd02eaf01e344843baddbbc72bace97
+  - enabled: 1
+    path: Assets/walkend.unity
+    guid: 889d5b0491ebcbf4eaae2520aa037bf3
+  - enabled: 1
+    path: Assets/Bonus1.unity
+    guid: 90d032d5b001de34fafe7e40ccc5dcb6
+  - enabled: 1
+    path: Assets/Bonus2.unity
+    guid: cbf7272df66552d44900584745a750fa
+  - enabled: 1
+    path: Assets/Bonus3.unity
+    guid: 3977b9e0c1558054f92396e26b845dc1
+  - enabled: 1
+    path: Assets/Bonus4.unity
+    guid: 0f5928f3f694cb441b3ffbfcb28ea254
+  - enabled: 1
+    path: Assets/Bonus5.unity
+    guid: 99b0ec552b0d3c442a24aef14a80b4da
+  - enabled: 1
+    path: Assets/over.unity
+    guid: e83b132edbcd29b48a8fa1acc5e975c1
+  m_configObjects: {}
